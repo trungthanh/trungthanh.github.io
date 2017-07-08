@@ -3,7 +3,7 @@ layout: default
 title: Thanh Ngo
 ---
 
-##About
+## About
 
 I am working on machine learning methods for cybersecurity at Cisco Tetration Analytics.
 
