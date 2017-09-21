@@ -11,5 +11,4 @@ Earlier, I was a PhD student at [CS, UMN](https://www.cs.umn.edu) working on num
 
 ## Codes
 
-* [tapp](https://github.com/trungthanh/tapp): a context dependent Typeahead (query autocompletion with context similarity)
-* [ScGrassMC](https://github.com/trungthanh/ScGrassMC): scaled gradient methods on Grassmann manifolds for matrix completion
+* [github](https://github.com/trungthanh?tab=repositories)
