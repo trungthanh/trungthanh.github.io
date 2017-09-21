@@ -9,6 +9,4 @@ Previously, I was a data scientist at WalmartLabs where I worked on making bette
 
 Earlier, I was a PhD student at [CS, UMN](https://www.cs.umn.edu) working on numerical linear algebra and optimization methods for machine learning and data mining methods for material science. My advisor is [Prof. Yousef Saad](http://www.cs.umn.edu/~saad).
 
-## Codes
-
-* [github](https://github.com/trungthanh?tab=repositories)
+My [Github](https://github.com/trungthanh?tab=repositories).
