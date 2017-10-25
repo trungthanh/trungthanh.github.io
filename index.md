@@ -3,7 +3,7 @@ layout: default
 title: Thanh Ngo
 ---
 
-I am working on machine learning methods for cybersecurity at Cisco Tetration Analytics.
+I am working on machine learning methods for cybersecurity. I am also interested in blockchain technologies and smart contracts.
 
 Previously, I was a data scientist at WalmartLabs where I worked on making better search experience for walmart.com, recommendation algorithms and optimization methods for online marketing.
 
